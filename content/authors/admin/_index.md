@@ -1,51 +1,43 @@
 ---
 # Display name
-title: 吳健雄
+title: 张敏艺
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Iris Cheung
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Min Yi
+last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💪
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role:2022级广告学院新媒体产业硕士
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 中国传媒大学
+    url: https://by.cuc.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Portfolio！
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:myiris0102@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -54,6 +46,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+我是张敏艺，欢迎来到我的个人作品集，这里有我产出的所有课题报告和撰写的文章，课题报告主要包括品牌营销案例研究、智能终端营销研究、消费者洞察、竞品分析、平台商业化分析等内容，文章主要有营销人访谈、广告学科建设和品牌出海策略等。持续更新中......
