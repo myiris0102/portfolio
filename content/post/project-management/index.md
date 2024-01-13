@@ -1,7 +1,7 @@
 ---
-title: ✅ Manage your projects
+title: 智能语音助手技术与应用分析
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+date: 2022-11-01
 authors:
   - admin
 tags:
