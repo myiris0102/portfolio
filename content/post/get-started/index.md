@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
+title: 01 百度营销大数据分析与应用
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+date: 2022-10-24
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
