@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role:2022级广告学院新媒体产业硕士
+role: 2022级广告学院新媒体产业硕士
 
 # Organizations/Affiliations to show in About widget
 organizations:
