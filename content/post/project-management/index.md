@@ -1,6 +1,6 @@
 ---
-title: Chase Sapphire: Creating a Millennial Cult Brand
-summary: Case Study: Chase Sapphire面向千禧一代消费者的营销策略分析
+title: Chase Sapphire:Creating a Millennial Cult Brand
+summary: Case Study:Chase Sapphire面向千禧一代消费者的营销策略分析
 date: 2023-08-01
 authors:
   - admin
