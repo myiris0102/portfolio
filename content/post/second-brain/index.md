@@ -1,138 +1,28 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: 内容创作平台分析：淘宝光合平台VS百家号
+summary: 竞品分析：对淘宝、百度两家平台面向创作者提供的内容创作平台进行比较分析，从产品架构、基础功能、特色服务、商业变现等角度展开
 date: 2023-10-26
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  - PPT
+  - 产品
+  - 平台
+  - 竞品分析
+
 ---
+## 我的工作
+  对淘宝光合平台和百家号服务于内容创作者的两大平台进行对比分析，从服务主体、账号类型、内容呈现、功能服务四个维度进行深入分析，最后总结出一个内容创作平台应该具备的要点，并对光合平台和百家号的不同的发展趋势进行思考。
 
-Create a personal knowledge base and share your knowledge with your peers.
+## PPT摘要
+  ![screen reader text](ppt1.jpg " ")
+  ![screen reader text](ppt2.jpg " ")
+  ![screen reader text](ppt3.jpg " ")
+  ![screen reader text](ppt4.jpg " ")
+  ![screen reader text](ppt5.jpg " ")
+  ![screen reader text](ppt6.jpg " ")
+  ![screen reader text](ppt7.jpg " ")
+## 全文链接
+查看全文：请进入 https://kdocs.cn/l/cqmh4IVH3v1Z
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
-
-## Mindmaps
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
