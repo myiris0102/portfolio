@@ -15,12 +15,12 @@ tags:
   对Chase Sapphire的产品设计进行分析，并总结他们如何针对千禧一代调整品牌定位和营销策略。
   
 ## PPT摘要
-  ![screen reader text](ppt1.jpg " ")
-  ![screen reader text](ppt2.jpg " ")
-  ![screen reader text](ppt3.jpg " ")
-  ![screen reader text](ppt4.jpg " ")
-  ![screen reader text](ppt5.jpg " ")
-  ![screen reader text](ppt6.jpg " ")
+  ![screen reader text](ppt1.jpg)
+  ![screen reader text](ppt2.jpg)
+  ![screen reader text](ppt3.jpg)
+  ![screen reader text](ppt4.jpg)
+  ![screen reader text](ppt5.jpg)
+  ![screen reader text](ppt6.jpg)
  
 
 
