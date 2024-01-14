@@ -19,7 +19,7 @@ tags:
 ## 我的工作
 对百度平台的数据来源、大数据工具进行梳理
 
-##PPT摘要
+## PPT摘要
 # Place an image named `ppt.jpg/png` in this page's folder and customize its options here.
 
 
