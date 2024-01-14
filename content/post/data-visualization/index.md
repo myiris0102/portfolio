@@ -19,5 +19,5 @@ tags:
   ![screen reader text](ppt3.jpg " ")
   ![screen reader text](ppt4.jpg " ")
   ![screen reader text](ppt5.jpg " ")
-  ![screen reader text](ppt6.jpg " ")
   ![screen reader text](ppt7.jpg " ")
+  ![screen reader text](ppt6.jpg " ")
