@@ -15,7 +15,12 @@ tags:
 ## 我的工作
   围绕智能语音助手技术，深入梳理其技术发展与应用现状，分别选取内容平台喜马拉雅、车企蔚来、互联网企业亚马逊和硬件设备厂商小米四个典型案例进行分析，分析出建设智能语音助手的三大原因：作为智能生态核心、作为竞争AI入口手段和作为终端商业化触点。
   
-
+##PPT摘要
+  ![screen reader text](ppt.jpg " ")
+  ![screen reader text](ppt0.jpg " ")
+  ![screen reader text](ppt1.jpg " ")
+  ![screen reader text](ppt3-2-1.jpg " ")
+  ![screen reader text](ppt3-2-2.jpg " ")
 ## 全文链接
   查看全文：请进入 https://kdocs.cn/l/coIcT7H0xcoB
 
