@@ -11,5 +11,9 @@ tags:
   - 数字营销
   - 人物专访
 ---
-
+## 文章全文
+  ![screen reader text](ppt1.jpg " ")
+  ![screen reader text](ppt2.jpg " ")
+  ![screen reader text](ppt3.jpg " ")
+  ![screen reader text](ppt4.jpg " ")
 
