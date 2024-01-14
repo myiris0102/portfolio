@@ -17,10 +17,10 @@ tags:
 ---
 
 ## 我的工作
-对百度平台的数据来源、大数据工具进行梳理
+  对百度平台的数据来源、大数据工具进行梳理
 
 ## PPT摘要
-{{< gallery album="ppt1" >}}
-{{< gallery album="ppt1" resize_options="600x400" >}}
+  {{< gallery album="ppt1" >}}
+  {{< gallery album="ppt1" resize_options="600x400" >}}
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
