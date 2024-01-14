@@ -33,9 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:myiris0102@163.com'
     label: E-mail Me
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+  # Link to a PDF of your resume/CV - upload it to `resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: resume.pdf
     label: Download my resume
 
 
