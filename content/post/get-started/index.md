@@ -21,5 +21,9 @@ tags:
 
 ## PPT摘要
   ![screen reader text](ppt.jpg " ")
+  ![screen reader text](ppt0.jpg " ")
+  ![screen reader text](ppt1.jpg " ")
+  ![screen reader text](ppt3-2-1.jpg " ")
+  ![screen reader text](ppt3-2-2.jpg " ")
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
