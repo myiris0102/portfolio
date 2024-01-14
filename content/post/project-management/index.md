@@ -1,28 +1,26 @@
 ---
-title: 智能语音助手技术与应用分析
-summary: 终端研究：围绕智能语音助手技术，深入梳理其技术发展与应用现状，分别选取内容平台、车企、互联网企业、硬件设备厂商四个典型案例进行分析，并给出洞察结论。
+title: Chase Sapphire: Creating a Millennial Cult Brand
+summary: Case Study: Chase Sapphire面向千禧一代消费者的营销策略分析
 date: 2022-11-01
 authors:
   - admin
 tags:
-  - 智能终端
-  - AI技术
   - PPT
+  - 品牌
   - 营销
-  - 个人成果
-
+  - 团队成果
 ---
 
 ## 我的工作
-  围绕智能语音助手技术，深入梳理其技术发展与应用现状，分别选取内容平台喜马拉雅、车企蔚来、互联网企业亚马逊和硬件设备厂商小米四个典型案例进行分析，分析出建设智能语音助手的三大原因：作为智能生态核心、作为竞争AI入口手段和作为终端商业化触点。
+  对Chase Sapphire的产品设计进行分析，并总结他们如何针对千禧一代调整品牌定位和营销策略。
   
 ## PPT摘要
-  ![screen reader text](ppt.jpg " ")
+  ![screen reader text](ppt1.jpg " ")
+  ![screen reader text](ppt2.jpg " ")
   ![screen reader text](ppt3.jpg " ")
   ![screen reader text](ppt4.jpg " ")
   ![screen reader text](ppt5.jpg " ")
+  ![screen reader text](ppt6.jpg " ")
  
-## 全文链接
-  查看全文：请进入 https://kdocs.cn/l/coIcT7H0xcoB
 
 
