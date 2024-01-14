@@ -17,4 +17,9 @@ tags:
  负责最后一部分，小米终端营销的展望，分析AIoT如何助力小米营销策略升级。
 
 ## PPT摘要
-
+  ![screen reader text](ppt1.jpg " ")
+  ![screen reader text](ppt2.jpg " ")
+  ![screen reader text](ppt3.jpg " ")
+  ![screen reader text](ppt4.jpg " ")
+  ![screen reader text](ppt5.jpg " ")
+  ![screen reader text](ppt6.jpg " ")
