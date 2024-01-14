@@ -17,10 +17,9 @@ tags:
   
 ##PPT摘要
   ![screen reader text](ppt.jpg " ")
-  ![screen reader text](ppt0.jpg " ")
-  ![screen reader text](ppt1.jpg " ")
-  ![screen reader text](ppt3-2-1.jpg " ")
-  ![screen reader text](ppt3-2-2.jpg " ")
+  ![screen reader text](ppt3.jpg " ")
+  ![screen reader text](ppt4.jpg " ")
+ 
 ## 全文链接
   查看全文：请进入 https://kdocs.cn/l/coIcT7H0xcoB
 
