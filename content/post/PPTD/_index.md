@@ -22,6 +22,5 @@ tags:
   ![screen reader text](2.jpg " ")
   ![screen reader text](3.jpg " ")
   ![screen reader text](4.jpg " ")
-  ![screen reader text](5.jpg " ")
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
