@@ -1,94 +1,22 @@
 ---
 title: 智能语音助手技术与应用分析
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+summary: 终端研究：围绕智能语音助手技术，深入梳理其技术发展与应用现状，分别选取内容平台、车企、互联网企业、硬件设备厂商四个典型案例进行分析，并给出洞察结论。
 date: 2022-11-01
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  - 智能终端
+  - AI技术
+  - PPT
+  - 营销
+
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+## 我的工作
+  围绕智能语音助手技术，深入梳理其技术发展与应用现状，分别选取内容平台喜马拉雅、车企蔚来、互联网企业亚马逊和硬件设备厂商小米四个典型案例进行分析，分析出建设智能语音助手的三大原因：作为智能生态核心、作为竞争AI入口手段和作为终端商业化触点。
+  
 
-## Ideation
+## 全文链接
+  查看全文：请进入 https://kdocs.cn/l/coIcT7H0xcoB
 
-Hugo Blox supports a Markdown extension for mindmaps.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
